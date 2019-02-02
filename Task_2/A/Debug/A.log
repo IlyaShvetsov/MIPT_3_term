@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\илья\documents\visual studio 2015\projects\третий семестр\repository\task_2\a\main.cpp(182): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\илья\documents\visual studio 2015\projects\третий семестр\repository\task_2\a\main.cpp(184): warning C4018: <: несоответствие типов со знаком и без знака
+  A.vcxproj -> C:\Users\Илья\Documents\Visual Studio 2015\Projects\Третий семестр\Repository\Task_2\Debug\A.exe
+  A.vcxproj -> C:\Users\Илья\Documents\Visual Studio 2015\Projects\Третий семестр\Repository\Task_2\Debug\A.pdb (Partial PDB)

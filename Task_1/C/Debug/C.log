@@ -1,0 +1,14 @@
+﻿  main.cpp
+c:\users\илья\documents\visual studio 2015\projects\третий семестр\repository\task_1\c\main.cpp(20): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Компиляция...
+  Aho_Corasick.cpp
+c:\users\илья\documents\visual studio 2015\projects\третий семестр\repository\task_1\c\aho_corasick.cpp(19): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\илья\documents\visual studio 2015\projects\третий семестр\repository\task_1\c\aho_corasick.cpp(28): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\илья\documents\visual studio 2015\projects\третий семестр\repository\task_1\c\aho_corasick.cpp(36): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\илья\documents\visual studio 2015\projects\третий семестр\repository\task_1\c\aho_corasick.cpp(51): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\илья\documents\visual studio 2015\projects\третий семестр\repository\task_1\c\aho_corasick.cpp(116): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\илья\documents\visual studio 2015\projects\третий семестр\repository\task_1\c\aho_corasick.cpp(130): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  C.vcxproj -> C:\Users\Илья\Documents\Visual Studio 2015\Projects\Третий семестр\Repository\Task_1\Debug\C.exe
+  C.vcxproj -> C:\Users\Илья\Documents\Visual Studio 2015\Projects\Третий семестр\Repository\Task_1\Debug\C.pdb (Full PDB)

@@ -1,0 +1,9 @@
+﻿  main.cpp
+  builder.cpp
+c:\users\илья\documents\visual studio 2015\projects\третий семестр\repository\task_1\b2\builder.cpp(15): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\илья\documents\visual studio 2015\projects\третий семестр\repository\task_1\b2\builder.cpp(21): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\илья\documents\visual studio 2015\projects\третий семестр\repository\task_1\b2\builder.cpp(39): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\илья\documents\visual studio 2015\projects\третий семестр\repository\task_1\b2\builder.cpp(48): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  B2.vcxproj -> C:\Users\Илья\documents\visual studio 2015\Projects\Третий семестр\Repository\Task_1\Debug\B2.exe
+  B2.vcxproj -> C:\Users\Илья\documents\visual studio 2015\Projects\Третий семестр\Repository\Task_1\Debug\B2.pdb (Full PDB)

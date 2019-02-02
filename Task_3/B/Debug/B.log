@@ -1,0 +1,10 @@
+﻿  main.cpp
+c1xx : fatal error C1083: Не удается открыть файл источник: main.cpp: No such file or directory
+  Ruslan.cpp
+c1xx : fatal error C1083: Не удается открыть файл источник: Ruslan.cpp: No such file or directory
+  MySource.cpp
+c:\users\илья\documents\visual studio 2015\projects\третий семестр\repository\task_3\b\mysource.cpp(154): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\илья\documents\visual studio 2015\projects\третий семестр\repository\task_3\b\mysource.cpp(203): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\илья\documents\visual studio 2015\projects\третий семестр\repository\task_3\b\mysource.cpp(206): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\илья\documents\visual studio 2015\projects\третий семестр\repository\task_3\b\mysource.cpp(224): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
