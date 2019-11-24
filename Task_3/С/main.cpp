@@ -1,5 +1,3 @@
-// �� �������� � ��������� (����� ���� - (0,0), { (-1, -1), (1, 1) }
-
 #include <iostream>
 #include <fstream>
 #include <math.h>
