@@ -1,0 +1,11 @@
+﻿  substring_finder.cpp
+c:\users\илья\documents\visual studio 2015\projects\третий семестр\repository\task_1\a\substring_finder.cpp(22): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\илья\documents\visual studio 2015\projects\третий семестр\repository\task_1\a\substring_finder.cpp(28): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\илья\documents\visual studio 2015\projects\третий семестр\repository\task_1\a\substring_finder.cpp(44): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\илья\documents\visual studio 2015\projects\третий семестр\repository\task_1\a\substring_finder.cpp(50): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\илья\documents\visual studio 2015\projects\третий семестр\repository\task_1\a\substring_finder.cpp(70): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Пропуск... (изменения не обнаружены)
+  main.cpp
+  A.vcxproj -> C:\Users\Илья\documents\visual studio 2015\Projects\Третий семестр\Repository\Task_1\Debug\A.exe
+  A.vcxproj -> C:\Users\Илья\documents\visual studio 2015\Projects\Третий семестр\Repository\Task_1\Debug\A.pdb (Full PDB)
