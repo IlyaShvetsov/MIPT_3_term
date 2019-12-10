@@ -6,8 +6,7 @@
 
 
 
-int main()
-{
+int main() {
 	std::ifstream inp("input.txt");
 	std::string text, pattern;
 	inp >> pattern >> text;

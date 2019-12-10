@@ -6,8 +6,7 @@
 
 
 
-int main()
-{
+int main() {
 	std::ifstream inp("input.txt");
 	std::ofstream out("output.txt");
 	std::vector <int> prefix;
